@@ -1,6 +1,6 @@
 {
   "portrait":[
-  \
+
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/portrait/frame1.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/portrait/frame2.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/portrait/frame3.png",
